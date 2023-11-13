@@ -1,0 +1,9 @@
+{
+        "users":[  
+            {
+                "username":"test",
+                "password":"password",
+                "token":"TEST.12333RANDOMSHIT"
+            }
+        ]
+}
